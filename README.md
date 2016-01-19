@@ -1,7 +1,7 @@
 # NAVA
 ## Dropdown Navigation
 
-Inspired from http://usatoday.com navigation
+Inspired from http://www.usatoday.com/sports/ sub menu navigation
 
 ### Installation
 HTML Code:
